@@ -1,13 +1,13 @@
 {
   "name": "tslint-config-harambe",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A tslint config. RIP Harambe",
   "main": "tslint.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Steven Job",
-  "license": "ISC",
+  "license": "WTFPL",
   "peerDependencies": {
     "@angular/compiler": "^2.4.1",
     "@angular/core": "^2.4.1",
