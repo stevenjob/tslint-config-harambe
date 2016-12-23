@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stevenjob/tslint-config-harambe"
+    "url": "https://github.com/stevenjob/tslint-config-harambe.git"
   }
 }
