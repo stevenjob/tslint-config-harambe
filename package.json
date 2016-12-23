@@ -8,11 +8,24 @@
   },
   "author": "Steven Job",
   "license": "WTFPL",
+  "devDependencies": {
+    "@angular/compiler": "^2.4.1",
+    "@angular/core": "^2.4.1",
+    "codelyzer": "^2.0.0-beta.4",
+    "rxjs": "^5.0.2",
+    "tslint": "^4.2.0",
+    "typescript": "^2.1.4",
+    "zone.js": "^0.7.4"
+  },
   "peerDependencies": {
     "@angular/compiler": "^2.4.1",
     "@angular/core": "^2.4.1",
     "codelyzer": "^2.0.0-beta.4",
     "tslint": "^4.2.0",
     "typescript": "^2.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenjob/tslint-config-harambe"
   }
 }
